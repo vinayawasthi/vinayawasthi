@@ -12,8 +12,8 @@ Since last 6 7 years I have mostly worked as architect and my expertise are:
 
 I am currently learning which are mentioned below:
 
-- 1. Linux Commands and Bash scripting 
-- 2. Cloud Computing
+- Linux Commands and Bash scripting 
+- Cloud Computing
 
 ## Connect with me:
 [Twitter](https://twitter.com/vinayavasthi/)
