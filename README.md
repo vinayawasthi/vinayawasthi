@@ -1,5 +1,5 @@
 ### Hi All 
-My name is Vinay Avasthi. I am a software professional having experience in IT for almost 8+ years. I have mostly worked on .NET Framework, SQL Server. My role is Senior Software Engineer. 
+My name is Vinay Avasthi. I am a software professional having experience in IT for almost 8+ years. I have mostly worked on .NET Framework, SQL Server. 
 
 Since last 6 7 years I have mostly worked as architect and my expertise are:
 
