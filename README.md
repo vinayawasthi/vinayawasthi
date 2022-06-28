@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi All 
 
-<!--
-**vinayawasthi/vinayawasthi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My self Vinay Avasthi. I am a software professional having experience in IT for almost 8+ years. I have mostly worked on .NET Framework, SQL Server. My role is Senior Software Engineer. 
 
-Here are some ideas to get you started:
+Since last 6 7 years I have mostly worked as architect and my expertise are:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Develop and maintian existing Portal Application with team
+- Monitoring all sql jobs and console jobs which are using to import/export files, request through mail, excel reports
+- Generate reports in excel based on client or client's client request thorugh SQL Server.
+- Writing and updating portal application's help documents as well as technical document.
+- Understand client requirements. check feasibility for requested features and convert it to technical requirements.
+- Help to client's client to use and consume existing api and data they need based on requiment.
+
+I am currently learning which are mentioned below:
+
+- 1. Linux Commands and Bash scripting 
+- 2. Cloud Computing
+
+## Connect with me:
+[Twitter](https://twitter.com/vinayavasthi/)
+[Linked In](https://www.linkedin.com/in/vinayawasthi/)
